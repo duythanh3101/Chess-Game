@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: 645c25ab35b601a43ab948eae5b87535
+timeCreated: 1508999574
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tileHolder: {instanceID: 0}
+  - pieceHolder: {instanceID: 0}
+  - blackTilePrefab: {fileID: 114847980311418026, guid: 789df2f2a98ec4545b4083e81906c038,
+      type: 2}
+  - whiteTilePrefab: {fileID: 114455379905007426, guid: 2370d87537991b5408d0b0262e3423d6,
+      type: 2}
+  - blackBishopPrefab: {fileID: 114647695380586726, guid: 642c4bdcc2dbf524b81886dab26b8b22,
+      type: 2}
+  - blackKingPrefab: {fileID: 114934202853433038, guid: e5c945503135451429903bded881a9cc,
+      type: 2}
+  - blackKnightPrefab: {fileID: 114925888526554358, guid: 887be746437b6cf46b3b23e0444a6248,
+      type: 2}
+  - blackQueenPrefab: {fileID: 114435863027426438, guid: 72f856eecc663c747afd02db1d87a748,
+      type: 2}
+  - blackRookPrefab: {fileID: 114413018298529218, guid: fd7f3dd1af2d8a94e8d9f45f7024c4ef,
+      type: 2}
+  - blackPawnPrefab: {fileID: 114420473320998856, guid: 94cab1ba58ddc7e4eabb7733e287b642,
+      type: 2}
+  - whiteBishopPrefab: {fileID: 114993697315907806, guid: 937c0d418555dcf4582e404f832c7799,
+      type: 2}
+  - whiteKingPrefab: {fileID: 114697447900398940, guid: df6d2b42fe7182344bd1c43aa39edd0b,
+      type: 2}
+  - whiteKnightPrefab: {fileID: 114419002983073852, guid: 3542ca8fafc4e1d4d98f821367d21cbe,
+      type: 2}
+  - whiteQueenPrefab: {fileID: 114054215124350150, guid: ace4b76f37876cb4aaf6c1f8e2c01802,
+      type: 2}
+  - whiteRookPrefab: {fileID: 114969015128831334, guid: 3bdd9e19b541cd84d96aca66c3a0cd11,
+      type: 2}
+  - whitePawnPrefab: {fileID: 114491375191520962, guid: 5a54bc444c662934a932d16600884665,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
